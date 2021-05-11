@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Esther Curtain",
-    "currentPage": "index.html",
+    "currentPage": "chinese.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -16,7 +16,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/output-onlinepngtools-1-128x128-1.png",
     "noImageResize": "",
-    "uniqCompNum": 28,
+    "uniqCompNum": 31,
     "versionPublish": "4.12.4",
     "siteUrl": false,
     "sitemapSwitcherAuto": "on",
@@ -685,7 +685,7 @@
             }
           },
           "text1": "<br><br>Mon~Fri 9am-9pm\n<br>Sat 11am-9pm\n<br>Sun 1pm-5pm",
-          "text2": "<br><br>info@esthercurtain.ca\n<br>(778) 655-7222\n<br><br>",
+          "text2": "<br><br>info@esthercurtain.ca\n<br>(778) 901-7772\n<br><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -1028,7 +1028,7 @@
             }
           },
           "text1": "<br><br>Mon~Fri 9am-9pm\n<br>Sat 11am-9pm\n<br>Sun 1pm-5pm",
-          "text2": "<br><br>info@esthercurtain.ca\n<br>(778) 655-7222\n<br><br>",
+          "text2": "<br><br>info@esthercurtain.ca\n<br>(778) 901-7772\n<br><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -1256,7 +1256,7 @@
             }
           },
           "text1": "<br><br>Mon~Fri 9am-9pm\n<br>Sat 11am-9pm\n<br>Sun 1pm-5pm",
-          "text2": "<br><br>info@esthercurtain.ca\n<br>(778) 655-7222\n<br><br>",
+          "text2": "<br><br>info@esthercurtain.ca\n<br>(778) 901-7772\n<br><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -1385,7 +1385,7 @@
           },
           "title": "<br><br>以斯帖<br><br>窗簾窗飾百葉",
           "text": "<br>以斯帖在大溫哥華地區以合理的價格提供最優質的窗簾服務，包含免費到府測量及安裝。<br>我們有各式各樣的窗簾種類滿足您的需求。<br>歡迎來電詢問。",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"sms:6042628116\" data-toolbar=\"-mbrBtnMove\">電話或簡訊: (778) 655-7222&nbsp;<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"service.html#features1-m\" data-toolbar=\"-mbrBtnMove\">了解更多</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"sms:6042628116\" data-toolbar=\"-mbrBtnMove\">電話或簡訊: (778) 901-7772&nbsp;<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"service.html#features1-m\" data-toolbar=\"-mbrBtnMove\">了解更多</a>",
           "_tags": [
             "Theme"
           ],
@@ -1648,7 +1648,7 @@
           "title": "需要估價?",
           "meta": "現在就來電詢問報價或由我們為您安排免費到府測量",
           "text": "<p>我們團隊提供專人服務，由我們幫您解答任何關於窗簾的問題。</p><p>如需中文服務請直接表明。</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"tel:6042628116\" data-toolbar=\"-mbrBtnMove\">(778) 655-7222&nbsp;<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"tel:6042628116\" data-toolbar=\"-mbrBtnMove\">(778) 901-7772&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -1685,7 +1685,7 @@
             }
           },
           "text1": "<br><br>Mon~Fri 9am-9pm\n<br>Sat 11am-9pm\n<br>Sun 1pm-5pm",
-          "text2": "<br><br>info@esthercurtain.ca\n<br>(778) 655-7222\n<br><br>",
+          "text2": "<br><br>info@esthercurtain.ca\n<br>(778) 901-7772\n<br><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -1814,7 +1814,7 @@
           },
           "title": "<br><br>YOUR VISION<br><br>\n<div>&nbsp; &nbsp; &nbsp; OUR FASHION</div>",
           "text": "<br>In Esther Curtain Studio, we provide quality service over the Greater Vancouver including measuring, installation and diverse curtain purchase along with best after sales service we can assure.&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"tel:(778) 655-7222\" data-toolbar=\"-mbrBtnMove\">Call/Text: (778) 655-7222&nbsp;<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"service.html#features1-m\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"tel:(778) 655-7222\" data-toolbar=\"-mbrBtnMove\">Call/Text: (778) 901-7772&nbsp;<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"service.html#features1-m\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -2072,7 +2072,7 @@
           "title": "NEED A QUOTE?",
           "meta": "CALL TODAY FOR A QUOTE OR A FREE IN HOME CONSULTATION\n<br>\n<br>",
           "text": "<p>We’re here to provide personalized design services and create truly unique and impactful textiles that will help bring your vision to life. Contact us today.\n</p><p>\n</p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"tel:(778) 655-7222\" data-toolbar=\"-mbrBtnMove\">(778) 655-7222&nbsp;<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"tel:(778) 655-7222\" data-toolbar=\"-mbrBtnMove\">(778) 901-7772&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -2109,7 +2109,7 @@
             }
           },
           "text1": "<br><br>Mon~Fri 9am-9pm\n<br>Sat 11am-9pm\n<br>Sun 1pm-5pm",
-          "text2": "<br><br>info@esthercurtain.ca\n<br>(778) 655-7222\n<br><br>",
+          "text2": "<br><br>info@esthercurtain.ca\n<br>(778) 901-7772\n<br><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -2150,6 +2150,139 @@
               "text-align": "center"
             }
           }
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "Page 5",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#404040"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#404040",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"/\">HOME<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"product.html\">PRODUCT<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"service.html\">SERVICE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"chinese.html\">中文服務</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.facebook.com/EstherCurtains/\" target=\"_blank\">Facebook Page</a></li>  ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/esther-curtain-logo-08-410x116.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-s"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/esther-curtain-logo-9-265x398.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<br><br>Mon~Fri 9am-9pm\n<br>Sat 11am-9pm\n<br>Sun 1pm-5pm",
+          "text2": "<br><br>info@esthercurtain.ca\n<br>(778) 901-7772\n<br><br>",
+          "text3": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "B": {
+              "font-size": "18px"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "contacts1-t"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright © 2020 Eshter Curtain Ltd., All Rights Reserved.&nbsp;<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "16px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-u"
         }
       ]
     }
